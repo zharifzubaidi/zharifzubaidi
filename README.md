@@ -1,6 +1,6 @@
 ### Zharif Zubaidi GitHub Profile
 
-I am an aspiring software engineer who is in a journey to career switching from electrical & control engineer into a full fledged fullstack developer with focus on .NET development.
+I am an aspiring software engineer who is in a journey to career switching from control engineer into a full fledged fullstack developer with focus on .NET development.
 
 ### GitHub Stats
 
