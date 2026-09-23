@@ -4,10 +4,12 @@ I am an aspiring software engineer who is in a journey to career switching from 
 
 ### GitHub Stats
 
-![Zharif's GitHub Stats](https://github-readme-stats.vercel.app/api?username=zharifzubaidi&show_icons=true&theme=radical)
+<p align="left">
+  <img src="./profile-summary-card-output/radical/0-profile-details.svg" alt="Profile details" />
+</p>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=zharifzubaidi&layout=compact&theme=radical)
-
-### GitHub Trophies
-
-<a href="#"><img align="center" src="https://github-profile-trophy.vercel.app/?username=zharifzubaidi&column=7" alt="GitHub Trophies" /></a>
+<p align="left">
+  <img src="./profile-summary-card-output/radical/3-stats.svg" alt="GitHub stats" height="180" />
+  <img src="./profile-summary-card-output/radical/1-repos-per-language.svg" alt="Repos per language" height="180" />
+  <img src="./profile-summary-card-output/radical/2-most-commit-language.svg" alt="Most commit language" height="180" />
+</p>
